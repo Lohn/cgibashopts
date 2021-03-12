@@ -1,0 +1,8 @@
+{
+  "name": "cgibashopts",
+  "version": "0.0.1",
+  "description": "CGI BASH options parsing",
+  "install": "install -b cgibashopts.sh ${PREFIX:-/usr/local}/bin/cgibashopts",
+  "scripts": [ "cgibashopts.sh" ]
+}
+
